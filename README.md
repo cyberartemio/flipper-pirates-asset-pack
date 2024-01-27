@@ -66,46 +66,86 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 ### ✨ Animations
 
 <table>
-<tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/barbossa.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/davy_jones.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/flag.gif" alt="" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center" width="33%">BARBOSSA</td>
-    <td align="center" width="33%">DAVY_JONES</td>
-    <td align="center" width="33%">BLACK_FLAG</td>
-</tr>
-<tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_1.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_2.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_3.gif" alt="" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center" width="33%">JACK_1</td>
-    <td align="center" width="33%">JACK_2</td>
-    <td align="center" width="33%">JACK_3</td>
-</tr>
-<tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/mermaid.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/POTC.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/will.gif" alt="" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center" width="33%">MERMAID</td>
-    <td align="center" width="33%">POTC_1</td>
-    <td align="center" width="33%">WILL_TURNER</td>
-</tr>
-<tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/will_elizabeth.gif" alt="" width="310px" /></td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
-</tr>
-<tr>
-    <td align="center">WILL_ELIZABETH</td>
-    <td align="center"></td>
-    <td align="center"></td>
-</tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/anims/barbossa.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/davy_jones.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/flag.gif" alt="" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            BARBOSSA
+        </td>
+        <td width="33%">
+            DAVY_JONES
+        </td>
+        <td width="33%">
+            BLACK_FLAG
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/anims/jack_1.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/jack_2.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/jack_3.gif" alt="" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            JACK_1
+        </td>
+        <td width="33%">
+            JACK_2
+        </td>
+        <td width="33%">
+            JACK_3
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/anims/mermaid.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/POTC.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/will.gif" alt="" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            MERMAID
+        </td>
+        <td width="33%">
+            POTC_1
+        </td>
+        <td width="33%">
+            WILL_TURNER
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/anims/will_elizabeth.gif" alt="" />
+        </td>
+        <td width="33%"></td>
+        <td width="33%"></td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            WILL_ELIZABETH
+        </td>
+        <td width="33%"></td>
+        <td width="33%"></td>
+    </tr>
 </table>
 
 ### 🔠 Fonts
@@ -114,41 +154,77 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 > `Secondary` and `Keyboard` fonts are taken from WillyJL Watchdogs asset pack ([github repo](https://github.com/Willy-JL/Flipper-WatchDogs-XFW/)).
 
 <table>
-<tr>
-    <td align="center" width="33%"><img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center" width="33%">Primary font</td>
-    <td align="center" width="33%">Secondary font</td>
-    <td align="center" width="33%">Keyboard font</td>
-</tr>
+    <tr align="center">
+        <td width="33%"><
+            img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" />
+        </td>
+        <td width="33%"><
+            img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" />
+        </td>
+        <td width="33%"><
+            img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            Primary font
+        </td>
+        <td width="33%">
+            Secondary font
+        </td>
+        <td width="33%">
+            Keyboard font
+        </td>
+    </tr>
 </table>
 
 ### 🪪 Icons
 
 <table>
-<tr>
-    <td align="center"><img src=".github/assets/icons/passport_happy.png" alt="passport happy" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/passport_okay.png" alt="passport okay" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/passport_angry.png" alt="passport angry" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center">Passport happy</td>
-    <td align="center">Passport okay</td>
-    <td align="center">Passport angry</td>
-</tr>
-<tr>
-    <td align="center"><img src=".github/assets/icons/nfc.png" alt="nfc" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/rfid.png" alt="rfid" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/subghz.png" alt="subghz" width="310px" /></td>
-</tr>
-<tr>
-    <td align="center">NFC</td>
-    <td align="center">RFID</td>
-    <td align="center">SubGHz</td>
-</tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/icons/passport_happy.png" alt="passport happy" width="310px" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/icons/passport_okay.png" alt="passport okay" width="310px" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/icons/passport_angry.png" alt="passport angry" width="310px" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            Passport happy
+        </td>
+        <td width="33%">
+            Passport okay
+        </td>
+        <td width="33%">
+            Passport angry
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/icons/nfc.png" alt="nfc" width="310px" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/icons/rfid.png" alt="rfid" width="310px" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/icons/subghz.png" alt="subghz" width="310px" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            NFC
+        </td>
+        <td width="33%">
+            RFID
+        </td>
+        <td width="33%">
+            SubGHz
+        </td>
+    </tr>
 </table>
 
 
