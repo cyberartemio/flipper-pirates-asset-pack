@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🏴‍☠️ flipper-pirates-asset-pack 🏴‍☠️</h1>
+    <h1>🏴‍☠️ Pirates asset pack 🏴‍☠️</h1>
     <p><i>"Do you fear death? Do you fear that dark abyss? All your deeds laid bare, all your sins punished?"</i><p>
 </div>
 
