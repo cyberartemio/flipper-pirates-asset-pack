@@ -53,39 +53,39 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center"><img src=".github/assets/anims/barbossa.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/davy_jones.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/flag.gif" alt="" width="310px"/></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/barbossa.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/davy_jones.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/flag.gif" alt="" width="310px"/></td>
 </tr>
 <tr>
-    <td align="center">BARBOSSA</td>
-    <td align="center">DAVY_JONES</td>
-    <td align="center">BLACK_FLAG</td>
+    <td align="center" width="33%">BARBOSSA</td>
+    <td align="center" width="33%">DAVY_JONES</td>
+    <td align="center" width="33%">BLACK_FLAG</td>
 </tr>
 <tr>
-    <td align="center"><img src=".github/assets/anims/jack_1.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/jack_2.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/jack_3.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_1.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_2.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_3.gif" alt="" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center">JACK_1</td>
-    <td align="center">JACK_2</td>
-    <td align="center">JACK_3</td>
+    <td align="center" width="33%">JACK_1</td>
+    <td align="center" width="33%">JACK_2</td>
+    <td align="center" width="33%">JACK_3</td>
 </tr>
 <tr>
-    <td align="center"><img src=".github/assets/anims/mermaid.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/POTC.gif" alt="" width="310px" /></td>
-    <td align="center"><img src=".github/assets/anims/will.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/mermaid.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/POTC.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/will.gif" alt="" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center">MERMAID</td>
-    <td align="center">POTC_1</td>
-    <td align="center">WILL_TURNER</td>
+    <td align="center" width="33%">MERMAID</td>
+    <td align="center" width="33%">POTC_1</td>
+    <td align="center" width="33%">WILL_TURNER</td>
 </tr>
 <tr>
-    <td align="center"><img src=".github/assets/anims/will_elizabeth.gif" alt="" width="310px" /></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/will_elizabeth.gif" alt="" width="310px" /></td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
 </tr>
 <tr>
     <td align="center">WILL_ELIZABETH</td>
@@ -101,14 +101,14 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center"><img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" /></td>
-    <td align="center"><img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" /></td>
-    <td align="center"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center">Primary font</td>
-    <td align="center">Secondary font</td>
-    <td align="center">Keyboard font</td>
+    <td align="center" width="33%">Primary font</td>
+    <td align="center" width="33%">Secondary font</td>
+    <td align="center" width="33%">Keyboard font</td>
 </tr>
 </table>
 
