@@ -12,23 +12,32 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 ## 🐬 Firmwares support
 
+*Note: the asset pack has been created primarly for Xtreme firmware.*
+
+✅ = tested and working
+
+❌ = not supported
+
+❓ = not tested
+
 | Firmware | Animations | Fonts | Passport |
 | :--- | :---: | :---: | :---: |
 | Official | ❓ | ❓ | ❓ |
-| Xtreme | ✅ | ✅ | ✅ |
-| Unleashed | ❓ | ❓ | ❓ |
+| Xtreme | ✅ | ✅* | ✅ |
+| Unleashed | ✅ | ❓ | ❓ |
 | RogueMaster | ❓ | ❓ | ❓ |
 
-*The asset pack has only been tested on Xtreme firmware.*
+\* needs latest build of XFW with custom fonts support
 
 ## 🚀 Installation
 
 > [!TIP]
 > Want to take a look before installing the pack on your flipper? Check the section [below](#☠️-showcase).
 
-To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD:
+To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD (follow the instructions for your firmware):
 
 - **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
+- **Unleashed firmware**: [unleashed_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/unleashed_pirates_asset_pack.zip)
 
 ### ⚙️ Building the pack locally
 
@@ -38,16 +47,12 @@ To install the asset pack, download the zipped pack on your computer using the l
 ```sh
 git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 ```
-2. Inside the directory create a new directory named `Pirates` and move `Anims`, `Fonts` and `Icons` inside:
-```sh
-cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
-```
-3. Download `asset_packer.py` script from Xtreme Github repo following this [guide](https://github.com/Flipper-XFW/Xtreme-Firmware/wiki/Asset-Packs#cool-i-read-all-that-but-how-do-i-make-one).
-4. Compile the pack:
+2. Inside the repo directory, download `asset_packer.py` script from Xtreme Github repo following this [guide](https://github.com/Flipper-XFW/Xtreme-Firmware/wiki/Asset-Packs#cool-i-read-all-that-but-how-do-i-make-one).
+3. Compile the pack:
 ```sh
 ./asset_packer.py
 ```
-5. Done. Copy the directory `asset_packs/Pirates` on the Flipper's SD.
+4. Done. Copy the directory `asset_packs/Pirates` on the Flipper's SD.
 
 ## 👀 Showcase
 
