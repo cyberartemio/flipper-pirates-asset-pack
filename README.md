@@ -34,17 +34,17 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD (follow the instructions for your firmware):
 - **Official firmware**: [official_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/official_pirates_asset_pack.zip)
-    - Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
-    - Restart your Flipper
+    1. Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
+    2. Restart your Flipper
 - **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
-    - Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
-    - Open `Xtreme` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
+    1. Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
+    2. Open `Xtreme` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
 - **RogueMaster firmware**: [roguemaster_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/roguemaster_pirates_asset_pack.zip)
-    - Copy all the files extracted from the zip file inside the directory `SD Card/dolphin` of your Flipper
-    - Open `CFW Settings` > `Interface` > `Desktop` and select `Pirates` in `Animations`
+    1. Copy all the files extracted from the zip file inside the directory `SD Card/dolphin` of your Flipper
+    2. Open `CFW Settings` > `Interface` > `Desktop` and select `Pirates` in `Animations`
 - **Unleashed firmware**: [unleashed_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/unleashed_pirates_asset_pack.zip)
-    - Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
-    - Restart your Flipper
+    1. Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
+    2. Restart your Flipper
 
 **Note: you can also install single animations instead of all the asset pack but you need to update the Manifest file.**
 
