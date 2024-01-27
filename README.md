@@ -23,10 +23,12 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 ## 🚀 Installation
 
-WORK IN PROGRESS...
-
 > [!TIP]
 > Want to take a look before installing the pack on your flipper? Check the section [below](#☠️-showcase).
+
+To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD:
+
+- **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
 
 ### ⚙️ Building the pack locally
 
