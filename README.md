@@ -1,7 +1,6 @@
 <div align="center">
-    <h1>🏴‍☠️ flipper-pirates-asset-pack</h1>
+    <h1>🏴‍☠️ flipper-pirates-asset-pack 🏴‍☠️</h1>
     <p><i>"Do you fear death? Do you fear that dark abyss? All your deeds laid bare, all your sins punished?"</i><p>
-    <img src=".github/assets/banner.jpg" alt="" width="800px" />
 </div>
 
 ## ℹ️ Introduction
@@ -54,44 +53,44 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/barbossa.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/davy_jones.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/flag.gif" alt="" /></td>
+    <td align="center"><img src=".github/assets/anims/barbossa.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/davy_jones.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/flag.gif" alt="" width="310px"/></td>
 </tr>
 <tr>
-    <td align="center" width="33%">BARBOSSA</td>
-    <td align="center" width="33%">DAVY_JONES</td>
-    <td align="center" width="33%">BLACK_FLAG</td>
+    <td align="center">BARBOSSA</td>
+    <td align="center">DAVY_JONES</td>
+    <td align="center">BLACK_FLAG</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_1.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_2.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_3.gif" alt="" /></td>
+    <td align="center"><img src=".github/assets/anims/jack_1.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/jack_2.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/jack_3.gif" alt="" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center" width="33%">JACK_1</td>
-    <td align="center" width="33%">JACK_2</td>
-    <td align="center" width="33%">JACK_3</td>
+    <td align="center">JACK_1</td>
+    <td align="center">JACK_2</td>
+    <td align="center">JACK_3</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/mermaid.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/POTC.gif" alt="" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/will.gif" alt="" /></td>
+    <td align="center"><img src=".github/assets/anims/mermaid.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/POTC.gif" alt="" width="310px" /></td>
+    <td align="center"><img src=".github/assets/anims/will.gif" alt="" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center" width="33%">MERMAID</td>
-    <td align="center" width="33%">POTC_1</td>
-    <td align="center" width="33%">WILL_TURNER</td>
+    <td align="center">MERMAID</td>
+    <td align="center">POTC_1</td>
+    <td align="center">WILL_TURNER</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/will_elizabeth.gif" alt="" /></td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
+    <td align="center"><img src=".github/assets/anims/will_elizabeth.gif" alt="" width="310px" /></td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 <tr>
-    <td align="center" width="33%">WILL_ELIZABETH</td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
+    <td align="center">WILL_ELIZABETH</td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 </table>
 
@@ -102,14 +101,14 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/fonts/primary_font.png" alt="passport" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/secondary_font.png" alt="passport" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" /></td>
+    <td align="center"><img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center" width="33%">Primary font</td>
-    <td align="center" width="33%">Secondary font</td>
-    <td align="center" width="33%">Keyboard font</td>
+    <td align="center">Primary font</td>
+    <td align="center">Secondary font</td>
+    <td align="center">Keyboard font</td>
 </tr>
 </table>
 
@@ -117,7 +116,7 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="310.33px" /></td>
+    <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="310px" /></td>
 </tr>
 </table>
 
