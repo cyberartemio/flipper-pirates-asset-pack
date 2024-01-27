@@ -14,7 +14,7 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 *Note: the asset pack has been created primarly for Xtreme firmware.*
 
-| Firmware | Animations | Fonts | Passport |
+| Firmware | Animations | Fonts | Icons |
 | :--- | :---: | :---: | :---: |
 | Official | ✅ | ❌ | ❓ |
 | Xtreme | ✅ | ✅* | ✅ |
@@ -130,10 +130,24 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 
 <table>
 <tr>
-    <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/passport.png" alt="passport" width="310px" /></td>
+    <td></td>
+    <td></td>
 </tr>
 <tr>
     <td align="center">Passport</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td align="center"><img src=".github/assets/icons/nfc.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/rfid.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/subghz.png" alt="passport" width="310px" /></td>
+</tr>
+<tr>
+    <td align="center">NFC</td>
+    <td align="center">RFID</td>
+    <td align="center">SubGHz</td>
 </tr>
 </table>
 
