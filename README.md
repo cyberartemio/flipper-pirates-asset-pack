@@ -54,9 +54,9 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/barbossa.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/davy_jones.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/flag.gif" alt="" width="300px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/barbossa.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/davy_jones.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/flag.gif" alt="" /></td>
 </tr>
 <tr>
     <td align="center" width="33%">BARBOSSA</td>
@@ -64,9 +64,9 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
     <td align="center" width="33%">BLACK_FLAG</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_1.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_2.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/jack_3.gif" alt="" width="300px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_1.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_2.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/jack_3.gif" alt="" /></td>
 </tr>
 <tr>
     <td align="center" width="33%">JACK_1</td>
@@ -74,9 +74,9 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
     <td align="center" width="33%">JACK_3</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/mermaid.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/POTC.gif" alt="" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/anims/will.gif" alt="" width="300px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/mermaid.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/POTC.gif" alt="" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/will.gif" alt="" /></td>
 </tr>
 <tr>
     <td align="center" width="33%">MERMAID</td>
@@ -84,7 +84,7 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
     <td align="center" width="33%">WILL_TURNER</td>
 </tr>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/anims/will_elizabeth.gif" alt="" width="300px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/anims/will_elizabeth.gif" alt="" /></td>
     <td align="center" width="33%"></td>
     <td align="center" width="33%"></td>
 </tr>
@@ -102,9 +102,9 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 <table>
 <tr>
-    <td align="center" width="33%"><img src=".github/assets/fonts/primary_font.png" alt="passport" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/secondary_font.png" alt="passport" width="300px" /></td>
-    <td align="center" width="33%"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="300px" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/primary_font.png" alt="passport" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/secondary_font.png" alt="passport" /></td>
+    <td align="center" width="33%"><img src=".github/assets/fonts/keyboard_font.png" alt="passport" /></td>
 </tr>
 <tr>
     <td align="center" width="33%">Primary font</td>
@@ -115,9 +115,9 @@ cd flipper-pirates-asset-pack && mkdir Pirates && mv Anims Fonts Icons Pirates
 
 ### 🪪 Passport
 
-<table width="300px">
+<table>
 <tr>
-    <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="300px" /></td>
+    <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="310.33px" /></td>
 </tr>
 </table>
 
