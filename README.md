@@ -242,5 +242,5 @@ Without the following people I wouldn't be able to made this pack... so shout ou
 
 - [WillyJL - Flipper-WatchDogs-XFW](https://github.com/Willy-JL/Flipper-WatchDogs-XFW/)
 - [Talking Sasquach - Custom Flipper Zero Fonts Packs on the Latest XFW Release!](https://www.youtube.com/watch?v=xRYI2lHk6vE)
-- [Talking Sasquach - "The Ultimate Guide to Flipper Zero Animations!!"](https://www.youtube.com/watch?v=trpcZLlJtNw)
-- [Talking Sasquach - "Flipper Zero Animation Process"](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet)
+- [Talking Sasquach - The Ultimate Guide to Flipper Zero Animations!!](https://www.youtube.com/watch?v=trpcZLlJtNw)
+- [Talking Sasquach - "Flipper Zero Animation Process"](https://tinyurl.com/squach)
