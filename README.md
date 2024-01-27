@@ -130,19 +130,19 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 
 <table>
 <tr>
-    <td align="center"><img src=".github/assets/icons/passport.png" alt="passport" width="310px" /></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src=".github/assets/icons/passport_happy.png" alt="passport happy" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/passport_okay.png" alt="passport okay" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/passport_angry.png" alt="passport angry" width="310px" /></td>
 </tr>
 <tr>
-    <td align="center">Passport</td>
-    <td></td>
-    <td></td>
+    <td align="center">Passport happy</td>
+    <td align="center">Passport okay</td>
+    <td align="center">Passport angry</td>
 </tr>
 <tr>
-    <td align="center"><img src=".github/assets/icons/nfc.png" alt="passport" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/rfid.png" alt="passport" width="310px" /></td>
-    <td align="center"><img src=".github/assets/icons/subghz.png" alt="passport" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/nfc.png" alt="nfc" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/rfid.png" alt="rfid" width="310px" /></td>
+    <td align="center"><img src=".github/assets/icons/subghz.png" alt="subghz" width="310px" /></td>
 </tr>
 <tr>
     <td align="center">NFC</td>
