@@ -155,14 +155,14 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 
 <table>
     <tr align="center">
-        <td width="33%"><
-            img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" />
+        <td width="33%">
+            <img src=".github/assets/fonts/primary_font.png" alt="passport" width="310px" />
         </td>
-        <td width="33%"><
-            img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" />
+        <td width="33%">
+            <img src=".github/assets/fonts/secondary_font.png" alt="passport" width="310px" />
         </td>
-        <td width="33%"><
-            img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" />
+        <td width="33%">
+            <img src=".github/assets/fonts/keyboard_font.png" alt="passport" width="310px" />
         </td>
     </tr>
     <tr align="center">
