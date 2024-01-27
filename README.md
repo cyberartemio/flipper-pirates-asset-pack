@@ -5,7 +5,7 @@
 
 ## ℹ️ Introduction
 
-This is a custom asset pack that I built for my Flipper Zero. The main theme is Pirates of the Caribbean and all the animations are based on scenes taken from the various movies. If you want to install the pack check the section [below](#🚀-installation).
+This is a custom asset pack that I built for my Flipper Zero. The main theme is Pirates of the Caribbean and all the animations are based on scenes taken from the various movies. If you want to install the pack on your Flipper check the section [below](#-installation).
 
 > [!NOTE]
 > This asset pack is a working in progress. New animations and icons will be added in the future.
@@ -32,7 +32,7 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 ## 🚀 Installation
 
 > [!TIP]
-> Want to take a look before installing the pack on your flipper? Check the section [below](#☠️-showcase).
+> Want to take a look before installing the pack on your flipper? Check the section [below](#-showcase).
 
 To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD (follow the instructions for your firmware):
 
