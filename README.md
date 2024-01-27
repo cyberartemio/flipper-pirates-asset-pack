@@ -14,20 +14,18 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 *Note: the asset pack has been created primarly for Xtreme firmware.*
 
-✅ = tested and working
-
-❌ = not supported
-
-❓ = not tested
-
 | Firmware | Animations | Fonts | Passport |
 | :--- | :---: | :---: | :---: |
-| Official | ❓ | ❓ | ❓ |
+| Official | ✅ | ❌ | ❓ |
 | Xtreme | ✅ | ✅* | ✅ |
-| Unleashed | ✅ | ❓ | ❓ |
-| RogueMaster | ❓ | ❓ | ❓ |
+| Unleashed | ✅ | ❌ | ❓ |
+| RogueMaster | ✅ | ❌ | ❓ |
 
-\* needs latest build of XFW with custom fonts support
+\* needs dev build of XFW with custom fonts support
+
+- ✅ = tested and working
+- ❌ = not supported
+- ❓ = not tested
 
 ## 🚀 Installation
 
@@ -35,13 +33,22 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 > Want to take a look before installing the pack on your flipper? Check the section [below](#-showcase).
 
 To install the asset pack, download the zipped pack on your computer using the link below, extract it and copy the directory on your Flipper's SD (follow the instructions for your firmware):
-
+- **Official firmware**: [official_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/official_pirates_asset_pack.zip)
+    - Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
+    - Restart your Flipper
 - **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
+    - Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
+    - Open `Xtreme` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
+- **RogueMaster firmware**: [roguemaster_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/roguemaster_pirates_asset_pack.zip)
+    - Copy all the files extracted from the zip file inside the directory `SD Card/dolphin` of your Flipper
+    - Open `CFW Settings` > `Interface` > `Desktop` and select `Pirates` in `Animations`
 - **Unleashed firmware**: [unleashed_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/unleashed_pirates_asset_pack.zip)
+    - Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
+    - Restart your Flipper
+
+**Note: you can also install single animations instead of all the asset pack but you need to update the Manifest file.**
 
 ### ⚙️ Building the pack locally
-
-#### Xtreme firmware
 
 1. Clone the repo locally:
 ```sh
@@ -52,7 +59,7 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 ```sh
 ./asset_packer.py
 ```
-4. Done. Copy the directory `asset_packs/Pirates` on the Flipper's SD.
+4. Done. You can find all the assets inside `asset_packs/Pirates` directory.
 
 ## 👀 Showcase
 
