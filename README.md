@@ -119,11 +119,14 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 </tr>
 </table>
 
-### 🪪 Passport
+### 🪪 Icons
 
 <table>
 <tr>
     <td align="center"><img src=".github/assets/passport/passport.png" alt="passport" width="310px" /></td>
+</tr>
+<tr>
+    <td align="center">Passport</td>
 </tr>
 </table>
 
