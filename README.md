@@ -136,15 +136,23 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
         <td width="33%">
             <img src=".github/assets/anims/will_elizabeth.gif" alt="" />
         </td>
-        <td width="33%"></td>
-        <td width="33%"></td>
+        <td width="33%">
+            <img src=".github/assets/anims/skull.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/salazar.gif" alt="" />
+        </td>
     </tr>
     <tr align="center">
         <td width="33%">
             WILL_ELIZABETH
         </td>
-        <td width="33%"></td>
-        <td width="33%"></td>
+        <td width="33%">
+            SKULL
+        </td>
+        <td width="33%">
+            SALAZAR
+        </td>
     </tr>
 </table>
 
