@@ -17,11 +17,9 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 | Firmware | Animations | Fonts | Icons |
 | :--- | :---: | :---: | :---: |
 | Official | ✅ | ❌ | ❓ |
-| Xtreme | ✅ | ✅* | ✅ |
+| Xtreme | ✅ | ✅ | ✅ |
 | Unleashed | ✅ | ❌ | ❓ |
 | RogueMaster | ✅ | ❌ | ❓ |
-
-\* needs dev build of XFW with custom fonts support
 
 - ✅ = tested and working
 - ❌ = not supported
