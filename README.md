@@ -113,7 +113,7 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
             <img src=".github/assets/anims/mermaid.gif" alt="" />
         </td>
         <td width="33%">
-            <img src=".github/assets/anims/POTC.gif" alt="" />
+            <img src=".github/assets/anims/davy_jones_2.gif" alt="" />
         </td>
         <td width="33%">
             <img src=".github/assets/anims/will.gif" alt="" />
@@ -124,7 +124,7 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
             MERMAID
         </td>
         <td width="33%">
-            POTC_1
+            DAVY_JONES_2
         </td>
         <td width="33%">
             WILL_TURNER
@@ -150,6 +150,28 @@ git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
         </td>
         <td width="33%">
             SALAZAR
+        </td>
+    </tr>
+        <tr align="center">
+        <td width="33%">
+            <img src=".github/assets/anims/davy_jones_3.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/jack_4.gif" alt="" />
+        </td>
+        <td width="33%">
+            <img src=".github/assets/anims/jack_5.gif" alt="" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="33%">
+            DAVY_JONES_3
+        </td>
+        <td width="33%">
+            JACK_4
+        </td>
+        <td width="33%">
+            JACK_5
         </td>
     </tr>
 </table>
