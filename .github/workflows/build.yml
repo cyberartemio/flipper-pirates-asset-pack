@@ -1,0 +1,47 @@
+on:
+  workflow_dispatch:
+jobs:
+  build-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python v3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip3 install Pillow heatshrink2
+      - name: Download XFW asset_packer.py
+        run: wget https://raw.githubusercontent.com/Flipper-XFW/Xtreme-Firmware/dev/scripts/asset_packer.py
+      - name: Build assets
+        run: python3 builder.py
+      - name: Pack for Xtreme FW
+        run: |
+          cd asset_packs
+          zip -r xtreme_pirates_asset_pack.zip Pirates
+          mv xtreme_pirates_asset_pack.zip ../build 
+      - name: Pack for Rogue Master FW
+        run: |
+          cd asset_packs/Pirates/Anims
+          mv manifest.txt manifest_pirates.txt
+          zip -r roguemaster_pirates_asset_pack.zip .
+          mv roguemaster_pirates_asset_pack.zip ../../../build
+          mv manifest_pirates.txt manifest.txt
+      - name: Pack for Unleashed FW
+        run: |
+          cd asset_packs/Pirates/Anims
+          sed -i 's/Max level: 30/Max level: 3/g' manifest.txt
+          cd ..
+          mv Anims dolphin
+          zip -r unleashed_pirates_asset_pack.zip dolphin
+          mv unleashed_pirates_asset_pack.zip ../../build
+      - name: Pack for Original FW
+        run: cp build/unleashed_pirates_asset_pack.zip build/official_pirates_asset_pack.zip
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add build
+          git commit -m "build asset packs"
+          git push origin main

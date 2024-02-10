@@ -1,3 +1,4 @@
 raw_files
 .venv
 asset_packs
+asset_packer.py
