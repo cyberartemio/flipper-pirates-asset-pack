@@ -1,7 +1,7 @@
 <div align="center">
+    <img src=".github/assets/banner.png" alt="" />
     <h1>🏴‍☠️ flipper-pirates-asset-pack 🏴‍☠️</h1>
     <p><i>"Do you fear death? Do you fear that dark abyss? All your deeds laid bare, all your sins punished?"</i><p>
-    <img src=".github/assets/banner.png" alt="" />
 </div>
 
 ## ℹ️ Introduction
