@@ -12,7 +12,7 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip3 install Pillow heatshrink2
-      - name: Download XFW asset_packer.py
+      - name: Download MNTM asset_packer.py
         run: wget https://raw.githubusercontent.com/Next-Flip/Momentum-Firmware/dev/scripts/asset_packer.py
       - name: Build assets
         run: python3 builder.py
