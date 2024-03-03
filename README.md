@@ -13,11 +13,12 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 
 ## 🐬 Firmwares support
 
-*Note: the asset pack has been created primarly for Xtreme firmware.*
+*Note: the asset pack has been created primarly for Momentum firmware.*
 
 | Firmware | Animations | Fonts | Icons |
 | :--- | :---: | :---: | :---: |
 | Official | ✅ | ❌ | ❓ |
+| Momentum | ✅ | ✅ | ✅ |
 | Xtreme | ✅ | ✅ | ✅ |
 | Unleashed | ✅ | ❌ | ❓ |
 | RogueMaster | ✅ | ❌ | ❓ |
@@ -35,6 +36,9 @@ To install the asset pack, download the zipped pack on your computer using the l
 - **Official firmware**: [official_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/official_pirates_asset_pack.zip)
     1. Replace the directory `SD Card/dolphin` with the directory `dolphin` extracted from the zip file
     2. Restart your Flipper
+- **Momentum firmware**: [momentum_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/momentum_pirates_asset_pack.zip)
+    1. Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
+    2. Open `Momentum` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
 - **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
     1. Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
     2. Open `Xtreme` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
