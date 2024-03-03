@@ -57,7 +57,7 @@ To install the asset pack, download the zipped pack on your computer using the l
 ```sh
 git clone https://github.com/cyberartemio/flipper-pirates-asset-pack.git
 ```
-2. Inside the repo directory, download `asset_packer.py` script from Xtreme Github repo following this [guide](https://github.com/Flipper-XFW/Xtreme-Firmware/wiki/Asset-Packs#cool-i-read-all-that-but-how-do-i-make-one).
+2. Inside the repo directory, download `asset_packer.py` script from Momentum Github repo following this [guide](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md#cool-i-read-all-that-but-how-do-i-make-one).
 3. Compile the pack:
 ```sh
 ./asset_packer.py
