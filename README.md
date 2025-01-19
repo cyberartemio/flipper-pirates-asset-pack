@@ -20,7 +20,6 @@ This is a custom asset pack that I built for my Flipper Zero. The main theme is 
 | :--- | :---: | :---: | :---: |
 | Official | ✅ | ❌ | ❓ |
 | Momentum | ✅ | ✅ | ✅ |
-| Xtreme | ✅ | ✅ | ✅ |
 | Unleashed | ✅ | ❌ | ❓ |
 | RogueMaster | ✅ | ❌ | ❓ |
 
@@ -40,9 +39,6 @@ To install the asset pack, download the zipped pack on your computer using the l
 - **Momentum firmware**: [momentum_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/momentum_pirates_asset_pack.zip)
     1. Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
     2. Open `Momentum` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
-- **Xtreme firmware**: [xtreme_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/xtreme_pirates_asset_pack.zip)
-    1. Copy the directory `Pirates/` extracted from the zip file inside `SD Card/asset_packs`
-    2. Open `Xtreme` > `Interface` > `Graphics` and select `Pirates` in `Asset Pack`
 - **RogueMaster firmware**: [roguemaster_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/roguemaster_pirates_asset_pack.zip)
     1. Copy all the files extracted from the zip file inside the directory `SD Card/dolphin` of your Flipper
     2. Open `CFW Settings` > `Interface` > `Desktop` and select `Pirates` in `Animations`

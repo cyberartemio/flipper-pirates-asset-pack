@@ -16,11 +16,6 @@ jobs:
         run: wget https://raw.githubusercontent.com/Next-Flip/Momentum-Firmware/dev/scripts/asset_packer.py
       - name: Build assets
         run: python3 builder.py
-      - name: Pack for Xtreme FW
-        run: |
-          cd asset_packs
-          zip -r xtreme_pirates_asset_pack.zip Pirates
-          mv xtreme_pirates_asset_pack.zip ../build
       - name: Pack for Momentum FW
         run: |
           cd asset_packs
