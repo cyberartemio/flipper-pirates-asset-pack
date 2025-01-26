@@ -2,7 +2,7 @@
     <img src=".github/assets/banner.png" alt="" />
     <h1>🏴‍☠️ flipper-pirates-asset-pack 🏴‍☠️</h1>
     <p><i>"Do you fear death? Do you fear that dark abyss? All your deeds laid bare, all your sins punished?"</i><p>
-    <a href="https://discord.gg/5vrJbbW3ve"><img src="https://img.shields.io/badge/Discord%20server-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.gg/5vrJbbW3ve"><img src="https://img.shields.io/badge/Discord%20server-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 ## ℹ️ Introduction
